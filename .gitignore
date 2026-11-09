@@ -1,0 +1,7 @@
+# Never publish Power BI files or machine files
+*.pbix
+*.pbit
+*.pbip
+Thumbs.db
+.DS_Store
+~$*
